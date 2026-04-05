@@ -76,15 +76,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-<div align="center">
-
-[![Mobile-App](https://github-readme-stats.vercel.app/api/pin/?username=IT22073396&repo=Mobile-App&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/IT22073396/Mobile-App)
-[![Tasks-App1](https://github-readme-stats.vercel.app/api/pin/?username=IT22073396&repo=Tasks-App1&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/IT22073396/Tasks-App1)
-[![Farm-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=IT22073396&repo=Farm-Frontend&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/IT22073396/Farm-Frontend)
-
-</div>
 
 ---
 
