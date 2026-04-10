@@ -73,9 +73,13 @@
 
 <div align="center">
 
-![Molinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT22073396&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT22073396&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=IT22073396&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="160" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22073396&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=300" height="160" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=IT22073396&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 
 </div>
 
