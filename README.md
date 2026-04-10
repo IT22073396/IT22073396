@@ -1,89 +1,88 @@
+<!-- Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1f6feb,100:58a6ff&height=220&section=header&text=Molinda%20Mihiranga&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20he%2Fhim&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+# Molinda Mihiranga
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Mobile+%26+Web+Developer;Building+cool+things+%F0%9F%9B%A0%EF%B8%8F;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+**Software Developer &nbsp;·&nbsp; Mobile & Web &nbsp;·&nbsp; Sri Lanka**
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+## About Me
 
-### 👋 About Me
-
-- 🎓 **IT Student** — IT22073396
-- 💼 Passionate about building **mobile & web apps**
-- 🌱 Currently exploring **Kotlin, JavaScript & PHP**
-- 📱 Built projects in **Mobile, Frontend & Backend**
-- ⚡ Fun fact: I love turning ideas into real products
-
-<br/>
-
-### 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/molinda-mihiranga-627789317)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IT22073396)
-
-<br clear="right"/>
+- BSc Information Technology — SLIIT, Malabe *(2022 – present)*
+- Passionate about building **mobile & web apps** and AI-powered systems
+- Currently exploring full-stack microservices and machine learning integration
+- molindamihiranga17@gmail.com &nbsp;|&nbsp; Badulla, Sri Lanka
 
 ---
 
-### 🛠️ Tech Stack
+## Projects
 
-<div align="center">
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [**Vettly**](https://github.com/vettly-io) | Smart Recruitment Platform with AI Screening | ASP.NET Core · Go · Python · React · React Native · PostgreSQL · Redis · AWS | 🟡 Ongoing |
+| [**FeedPulse**](https://github.com/IT22073396/feedpulse) | AI-Powered Product Feedback Platform | Next.js 14 · Node.js · MongoDB · Google Gemini · Docker | ✅ Done |
+| [**Mandri Life**](https://github.com/IT22073396) | Inventory Management Web App | MongoDB · Express.js · React.js · Node.js | ✅ Done |
+| [**Hydro Grow**](https://github.com/IT22073396) | Smart Hydroponic Mobile App | React Native · FastAPI · TensorFlow · YOLOv11 | ✅ Done |
+
+---
+
+## Skills
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Frontend & Mobile**
+**Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-**Tools & Platforms**
+**Databases & Tools**
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Molinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT22073396&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT22073396&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT22073396&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22073396&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IT22073396&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
-
-</div>
-
----
-
-
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=IT22073396&label=Profile%20Views&color=58a6ff&style=flat-square" alt="profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
-
+  <a href="https://linkedin.com/in/molinda-mihiranga">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:molindamihiranga17@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/IT22073396">GitHub</a>
 </div>
